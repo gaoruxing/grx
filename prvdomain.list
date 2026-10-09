@@ -1,3 +1,6 @@
+# Domain Keyword
+DOMAIN-KEYWORD,cr-soft
+# Domain Suffix
 DOMAIN-SUFFIX,ruxin.org
 DOMAIN-SUFFIX,gaoruxing.top
 DOMAIN-SUFFIX,gov.cn
@@ -5,7 +8,6 @@ DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,88frp.com
 DOMAIN-SUFFIX,iventoy.com
 DOMAIN-SUFFIX,ventoy.net
-DOMAIN-KEYWORD,cr-soft
 DOMAIN-SUFFIX,cnb.cool
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,cegn.cn
