@@ -21,5 +21,9 @@ DOMAIN-SUFFIX,sysceo.com
 DOMAIN-SUFFIX,docker.com
 # 代理加速 域名
 DOMAIN-SUFFIX,gh-proxy.com
+# 1Panel 加速 域名
+DOMAIN-SUFFIX,1panel.dev
+DOMAIN-SUFFIX,1panel.live
+DOMAIN-SUFFIX,linkease.net
 # 当贝盒子 APP 下载 域名
 DOMAIN-SUFFIX,qingyingyong.net
