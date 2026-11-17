@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,ventoy.net
 DOMAIN-SUFFIX,sysceo.com
 # Docker 容器 域名
 DOMAIN-SUFFIX,docker.com
+# 代理加速 域名
+DOMAIN-SUFFIX,gh-proxy.com
 # 当贝盒子 APP 下载 域名
 DOMAIN-SUFFIX,qingyingyong.net
 
